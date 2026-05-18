@@ -13,6 +13,6 @@
 
 
 ###
-[![mraven182's GitHub stats](https://github-readme-stats.vercel.app/api?username=mraven182&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mraven182&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=mraven182&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mraven182&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://raw.githubusercontent.com/mraven182/mraven182/main/profile-3d-contrib/profile-green-animate.svg)
